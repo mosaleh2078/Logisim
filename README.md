@@ -1,2 +1,2 @@
 # Logisim
-Circuit designing using Logisim
+Logical circuit designing using Logisim
